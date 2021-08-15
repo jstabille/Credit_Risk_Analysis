@@ -23,7 +23,7 @@ Through each of these methods, I split my data into training and testing dataset
 * Recall High Risk: 72%
 * Recall Low Risk: 63%
 
-![oversampling](https://github.com/Wall-E28/credit_risk_analysis/blob/main/visualizations/oversampling.png)
+![oversampling](/visualizations/oversampling.png)
 
 ### SMOTE Oversampling
 
@@ -33,7 +33,7 @@ Through each of these methods, I split my data into training and testing dataset
 * Recall High Risk: 66%
 * Recall Low Risk: 66%
 
-![SMOTE](https://github.com/Wall-E28/credit_risk_analysis/blob/main/visualizations/SMOTE.png)
+![SMOTE](/visualizations/SMOTE.png)
 
 ### Cluster Centroid Undersampling
 
@@ -43,7 +43,7 @@ Through each of these methods, I split my data into training and testing dataset
 * Recall High Risk: 61%
 * Recall Low Risk: 42%
 
-![undersampling](https://github.com/Wall-E28/credit_risk_analysis/blob/main/visualizations/undersampling.png)
+![undersampling](/visualizations/undersampling.png)
 
 ### SMOTEENN Sampling
 
@@ -53,7 +53,7 @@ Through each of these methods, I split my data into training and testing dataset
 * Recall High Risk: 76%
 * Recall Low Risk: 60%
 
-![SMOTEENN](https://github.com/Wall-E28/credit_risk_analysis/blob/main/visualizations/SMOTEENN.png)
+![SMOTEENN](/visualizations/SMOTEENN.png)
 
 ### Balanced Random Forest Classifying
 
@@ -63,7 +63,7 @@ Through each of these methods, I split my data into training and testing dataset
 * Recall High Risk: 30%
 * Recall Low Risk: 100%
 
-![random_forest](https://github.com/Wall-E28/credit_risk_analysis/blob/main/visualizations/random_forest.png)
+![random_forest](visualizations/random_forest.png)
 
 ### Easy Ensemble Classifying
 
@@ -73,7 +73,7 @@ Through each of these methods, I split my data into training and testing dataset
 * Recall High Risk: 91%
 * Recall Low Risk: 94%
 
-![easy_ensemble](https://github.com/Wall-E28/credit_risk_analysis/blob/main/visualizations/easy_ensemble.png)
+![easy_ensemble](/visualizations/easy_ensemble.png)
 
 ## Summary
 
