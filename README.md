@@ -4,12 +4,12 @@
 
 The purpose of this analysis was to create a supervised machine learning model that could accurately predict credit risk. In order to complete this task, I used 6 different methods, which are:
 
-1. Naive Random Oversampling
-2. SMOTE Oversampling
-3. Cluster Centroid Undersampling
-4. SMOTEENN Sampling
-5. Balanced Random Forest Classifying
-6. Easy Ensemble Classifying
+1. Naive Random Oversampling.
+2. SMOTE Oversampling.
+3. Cluster Centroid Undersampling.
+4. SMOTEENN Sampling.
+5. Balanced Random Forest Classifying.
+6. Easy Ensemble Classifying.
 
 Through each of these methods, I split my data into training and testing datasets, and compiled accuracy scores, confusion matries, and classification reports as my results.
 
